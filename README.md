@@ -9,5 +9,5 @@
 
 <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-406354?style=for-the-badge&logoSize=auto&labelColor=272727&color=406354&link=https%3A%2F%2Fgithub.com%2Fcyberllloner%2FTrisquel-GNU-Linux-Fastfetch-Config%2Fblob%2Fmain%2FLICENSE">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Made_For-Fun-406354?style=for-the-badge&logoSize=auto&labelColor=272727&color=406354">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Made_With-Love-406354?style=for-the-badge&logoSize=auto&labelColor=272727&color=406354">
 </p>
