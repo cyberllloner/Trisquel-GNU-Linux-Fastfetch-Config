@@ -11,3 +11,22 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-406354?style=for-the-badge&logoSize=auto&labelColor=272727&color=406354&link=https%3A%2F%2Fgithub.com%2Fcyberllloner%2FTrisquel-GNU-Linux-Fastfetch-Config%2Fblob%2Fmain%2FLICENSE">
     <img alt="Static Badge" src="https://img.shields.io/badge/Made_With-Love-406354?style=for-the-badge&logoSize=auto&labelColor=272727&color=406354">
 </p>
+
+### Prerequsite
+- `fastfetch`
+
+### Installation
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/cyberllloner/Trisquel-GNU-Linux-Fastfetch-Config.git
+   ```
+2. Copy needed files to fastfetch config directory:
+   ```sh
+   cp Trisquel-GNU-Linux-Fastfetch-Config/fastfetch/* ~/.config/fastfetch
+   ```
+3. Run Fastfetch:
+   ```sh
+   fastfetch
+   ```
+### This Readme Is Not Completed Yet...
