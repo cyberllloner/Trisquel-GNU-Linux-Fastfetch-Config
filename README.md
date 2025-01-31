@@ -21,7 +21,7 @@
    ```sh
    git clone https://github.com/cyberllloner/Trisquel-GNU-Linux-Fastfetch-Config.git
    ```
-2. Copy needed files to fastfetch config directory:
+2. Copy needed files to Fastfetch config directory:
    ```sh
    cp Trisquel-GNU-Linux-Fastfetch-Config/fastfetch/* ~/.config/fastfetch
    ```
