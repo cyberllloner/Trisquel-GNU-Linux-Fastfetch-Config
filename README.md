@@ -1,6 +1,6 @@
 <div align="center">
     <h3 align="center">Trisquel GNU/Linux Fastfetch Config 🐃🐧</h3>
-    <p>A clean Fastfetch config for Trisquel GNU/Linux, where simplicity meets elegance</p>
+    <h4>A clean Fastfetch config for Trisquel GNU/Linux, where simplicity meets elegance</h4>
 </div>
 
 <p align="center">
@@ -13,7 +13,10 @@
 </p>
 
 ### Prerequsite
-- `fastfetch`
+
+- [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [Nerd Font](https://www.nerdfonts.com/#home)
+- [A terminal that can display images, such as Kitty](https://sw.kovidgoyal.net/kitty/)
 
 ### Installation
 
