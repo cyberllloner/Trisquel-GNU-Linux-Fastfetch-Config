@@ -1,10 +1,8 @@
-<div align="center">
-    <h3 align="center">Trisquel GNU/Linux Fastfetch Config 🐃🐧</h3>
-    <h4>A clean Fastfetch config for Trisquel GNU/Linux, where simplicity meets elegance</h4>
-</div>
+<h2 align="center">Trisquel GNU/Linux Fastfetch Config 🐃🐧</h2>
 
 <p align="center">
   <img src="https://github.com/cyberllloner/Trisquel-GNU-Linux-Fastfetch-Config/blob/main/screenshot.png" alt="Screenshot" width="100%">
+  <em>A clean Fastfetch config for Trisquel GNU/Linux, where simplicity meets elegance</em>
 </p>
 
 <p align="center">
