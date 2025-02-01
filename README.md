@@ -1,4 +1,4 @@
-<h1 align="center">Trisquel GNU/Linux Fastfetch Config 🐃🐧</h1>
+<h2 align="center">Trisquel GNU/Linux Fastfetch Config 🐃🐧</h2>
 
 <p align="center">
   <img src="https://github.com/cyberllloner/Trisquel-GNU-Linux-Fastfetch-Config/blob/main/screenshot.png" alt="Screenshot" width="100%">
