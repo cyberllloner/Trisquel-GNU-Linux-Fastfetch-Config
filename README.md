@@ -43,3 +43,9 @@
 - Simply look for the icon you want [here](https://www.nerdfonts.com/cheat-sheet) to adjust any icon in this configuration to match your style or needs.
 - This configuration utilizes `ANSI Escape Codes` to apply colors. More color codes are listed [here](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#color-codes). Maybe this will help you. ^^
 - Only tested on `kitty`.
+
+<br/>
+
+### License
+
+[MIT License](https://github.com/cyberllloner/Trisquel-GNU-Linux-Fastfetch-Config/blob/main/LICENSE)
